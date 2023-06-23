@@ -1,6 +1,6 @@
 {
-  "name": "react-native-inappbrowser-reborn",
-  "version": "3.7.0",
+  "name": "@stytch/react-native-inappbrowser-reborn",
+  "version": "3.7.1",
   "description": "InAppBrowser for React Native",
   "main": "index.js",
   "scripts": {
@@ -11,10 +11,10 @@
   "typings": "./index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git@github.com:proyecto26/react-native-inappbrowser.git"
+    "url": "git@github.com:stytchauth/react-native-inappbrowser.git"
   },
   "bugs": {
-    "url": "https://github.com/proyecto26/react-native-inappbrowser/issues"
+    "url": "https://github.com/stytchauth/react-native-inappbrowser/issues"
   },
   "keywords": [
     "react-native",
@@ -35,8 +35,8 @@
     "CustomTabsIntent",
     "ChromeTabsManagerActivity"
   ],
-  "author": "Juan David Nicholls Cardona",
-  "homepage": "https://github.com/proyecto26/react-native-inappbrowser",
+  "author": "Stytch",
+  "homepage": "https://github.com/stytchauth/react-native-inappbrowser",
   "license": "MIT",
   "peerDependencies": {
     "react-native": ">=0.56"

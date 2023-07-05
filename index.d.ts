@@ -1,4 +1,4 @@
-declare module "react-native-inappbrowser-reborn" {
+declare module "@stytch/react-native-inappbrowser-reborn" {
   export interface RedirectEvent {
     url: "string";
   }

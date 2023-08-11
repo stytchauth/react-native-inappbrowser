@@ -14,7 +14,7 @@
     "clean:ios": "cd ios && pod cache clean --all;rm -rf ~/Library/Caches/CocoaPods; rm -rf Pods; rm -rf ~/Library/Developer/Xcode/DerivedData/*; pod deintegrate; pod setup; pod install;"
   },
   "dependencies": {
-    "react": "18.0.0",
+    "react": "18.2.0",
     "react-native": "0.69.2",
     "react-native-inappbrowser-reborn": "file:.."
   },
